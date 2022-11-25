@@ -1,0 +1,3 @@
+# set_up_wordpress_env
+
+localを使用したWprdPress環境作成shell
