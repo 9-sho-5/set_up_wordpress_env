@@ -1,6 +1,6 @@
 # set_up_wordpress_env
 
-shell scruitにより下記のことを実現
+shell scriptにより下記のことを実現
 - Local Siteを使用したWordPress環境構築
 - Github連携
 - Web制作環境の初期設定
