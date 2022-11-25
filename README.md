@@ -1,4 +1,4 @@
-# set_up_wordpress_env
+# set up wordpress environment with shell script
 
 shell scriptにより下記のことを実現
 - Local Siteを使用したWordPress環境構築
