@@ -13,7 +13,7 @@ shell scriptにより下記のことを実現
  
 1. localにて新規Local Siteの作成
 2. Githubにて、リモートレポジトリの作成
-3. set_up_wp.shの実行 [第1引数にWorking-Treeのレポジトリ名 第1引数に作成したGithubレポジトリのurl]
+3. ./set_up_wp.sh [第1引数にWorking-Treeのレポジトリ名] [第2引数に作成したGithubレポジトリのurl] の実行
 → ./set_up_wp.sh [Working-Tree name] [Github repository url]
 4. 初期環境構築の完了
 
