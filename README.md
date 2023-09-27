@@ -16,7 +16,7 @@ shell scriptにより下記のことを実現
 3. ./set_up_wp.sh [作成した Local site名] [第2引数に作成したGithubレポジトリのurl] の実行
 
 ```
-$ ./set_up_wp.sh [new Lical Site name] [Github repository url]
+$ source ./set_up_wp.sh [new Lical Site name] [Github repository url]
 ```
 上記のコマンド実行で、初期環境構築の完了
 
